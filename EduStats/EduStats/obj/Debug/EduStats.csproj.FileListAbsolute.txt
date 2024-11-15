@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\bin\Debug\EduStats.exe.config
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\bin\Debug\EduStats.exe
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\bin\Debug\EduStats.pdb
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\obj\Debug\EduStats.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\obj\Debug\EduStats.Properties.Resources.resources
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\obj\Debug\EduStats.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\obj\Debug\EduStats.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\obj\Debug\EduStats.exe
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\obj\Debug\EduStats.pdb
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\obj\Debug\EduStats.PaginaPrincipal.resources
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\obj\Debug\EduStats.Formularios.MenuDeOpciones.resources
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\obj\Debug\EduStats.Formularios.Carreras.resources
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\obj\Debug\EduStats.Formularios.GeneroDeLibro.resources
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\obj\Debug\EduStats.Formularios.HorasDiarias.resources
+C:\Users\admin\Desktop\EduStats\EduStats\EduStats\obj\Debug\EduStats.Formularios.Temporada.resources
